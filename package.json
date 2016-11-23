@@ -1,0 +1,20 @@
+{
+  "name": "taocp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ne": "node nonexercises.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsgoulart/taocp.git"
+  },
+  "author": "Vinícius Goulart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsgoulart/taocp/issues"
+  },
+  "homepage": "https://github.com/vsgoulart/taocp#readme"
+}
